@@ -1,0 +1,153 @@
+.head1 {
+    background-image: url(Images/Bakery.jpg);
+    background-size: cover;
+    color: aliceblue;
+    height: 800px;
+    overflow: auto;
+}
+
+.nav-bar ul {
+    list-style-type: none;
+    background-color: transparent;
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+}
+
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.nav-bar a:hover {
+    background-color: gray;
+}
+
+.nav-bar li {
+    float: right;
+
+}
+
+a {
+    display: inline-block;
+    width: 80px;
+    font-size: 18px;
+}
+
+
+.head-text {
+    text-align: center;
+    width: 30%;
+    margin: 150px auto;
+}
+
+.head1 img {
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+
+.head-text h1 {
+    font-size: 80;
+}
+
+.head-text h3 {
+    font-size: 20;
+}
+
+.form2 {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 600px;
+    overflow: auto;
+}
+
+.bg {
+
+    width: 22%;
+    height: 400px;
+    float: left;
+}
+
+#bg1 {
+    margin-top: 100px;
+    margin-left: 25%;
+}
+
+#bg2 {
+    margin-top: 100px;
+    margin-left: 5%;
+}
+
+#bg1 img {
+    width: 100%;
+}
+
+
+
+
+.form4{
+    background-color: rgb(231, 231, 231);
+    width: 100%;
+    height: 600px;
+}
+
+.f4 {
+
+    width: 22%;
+    height: 400px;
+    float: left;
+}
+
+#f4bg1 {
+    margin-top: 100px;
+    margin-left: 5%;
+}
+
+#f4bg2 {
+    margin-top: 100px;
+    margin-left: 25%;
+}
+#f4bg2 p{
+font-size: 20px;
+}
+
+#f4bg1 img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+.form3 {
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+}
+
+.f3 {
+    background-color: transparent;
+    width: 33%;
+    display: inline-block;
+}
+
+.form3 h2 {
+    padding-top: 50px;
+}
+
+.container img {
+    width: 70%;
+}
+
+.container {
+    width: 65%;
+    margin: auto;
+}
